@@ -1,0 +1,6 @@
+﻿  Snake_game.cpp
+c:\users\giuseppe\desktop\c++\snake_visualstudio\snake_visualstudio\snake_game.cpp(140): warning C4309: 'static_cast': troncamento di valore costante
+c:\users\giuseppe\desktop\c++\snake_visualstudio\snake_visualstudio\snake_game.cpp(231): warning C4309: 'static_cast': troncamento di valore costante
+c:\users\giuseppe\desktop\c++\snake_visualstudio\snake_visualstudio\snake_game.cpp(256): warning C4838: la conversione da 'int' a 'SHORT' richiede una conversione verso un tipo di dati più piccolo
+  Snake_visualStudio.vcxproj -> C:\Users\giuseppe\Desktop\c++\Snake_visualStudio\Debug\Snake_visualStudio.exe
+  Snake_visualStudio.vcxproj -> C:\Users\giuseppe\Desktop\c++\Snake_visualStudio\Debug\Snake_visualStudio.pdb (Partial PDB)
